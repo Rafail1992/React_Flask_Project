@@ -4,10 +4,10 @@ First project with react and flask. This is my one Website code, which was built
 ## `Preivew`
 ### 
 ### The main page
-![ScreenShot](https://github.com/Rafail1992/MyOwnWebSite/blob/main/1.jpg)
-![ScreenShot](https://github.com/Rafail1992/MyOwnWebSite/blob/main/2.jpg)
-![ScreenShot](https://github.com/Rafail1992/MyOwnWebSite/blob/main/3.jpg)
-![ScreenShot](https://github.com/Rafail1992/MyOwnWebSite/blob/main/4.jpg)
+![ScreenShot](https://github.com/Rafail1992/React_Flask_Project/blob/main/Screenshot_1.png)
+![ScreenShot](https://github.com/Rafail1992/React_Flask_Project/blob/main/Screenshot_2.png)
+![ScreenShot](https://github.com/Rafail1992/React_Flask_Project/blob/main/Screenshot_3.png)
+![ScreenShot](https://github.com/Rafail1992/React_Flask_Project/blob/main/Screenshot_4.png)
 ##
 
 
